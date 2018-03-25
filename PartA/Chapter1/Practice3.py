@@ -5,7 +5,7 @@ print(a[3])
 b = 'jay'
 c = 'python'
 
-template = "my name is %s , i love %s" % ( b, c)
+template = "my name is %s , i love %s" % (b, c)
 myapple = "this is %s %s" % ("my", "apple")
 
 
